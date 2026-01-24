@@ -3,8 +3,8 @@
   contents:
     - name: Full Name
       value: Colton Keiser
-    - name: Date of Birth
-      value: 
+    - name: Current role
+      value: IT Auditor
     - name: Languages
       value: English
 
@@ -13,20 +13,13 @@
   contents:
     - title: Bachelors of Science
       institution: University of Illinois Urbana-Champaign
-      year: 2024
+      year: 2020 - 2024
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
+        - Courses consisted of a varity of technical experiences including learning programming languages like Python, Ruby, and SQL. Additionally, a variety of broader technical skills such as IT infrastructure and game development.
+        - title: Minor in Game Studies and Design
           contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
-      description:
-        - Description 1.
-        - Description 2.
+            - Courses consisted of a variety of development and design experience working in semester long projects. Engines used were Unreal Engine, Godot, Unity, and RPGMaker. Roles on teams focused around game programming and design.
+
 
 - title: Experience
   type: time_table
@@ -66,18 +59,19 @@
       items:
         - iSchool Dean's List
 
-- title: Academic Interests
+- title: Interests
   type: nested_list
   contents:
     - title: Game Development
       items:
         - Technical Design
+        - Unity, Godot, Unreal Engine
     - title: Python
       items:
         - Data Analysis
         - Machine Learning
 
-- title: Other Interests
+- title: Misc Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - Gaming, Weightlifting, Running, and Reading
