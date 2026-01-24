@@ -228,13 +228,11 @@ plugins:
   - jekyll-paginate-v2
   - jekyll-regex-replace
   - jekyll-sitemap
-  - jekyll-socials
   - jekyll-tabs
   - jekyll-terser
   - jekyll-toc
   - jekyll-twitter-plugin
   - jemoji
-  - jekyll-relative-links
 
 
 # Sitemap settings
