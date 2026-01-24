@@ -6,7 +6,7 @@
     - name: Date of Birth
       value: 
     - name: Languages
-      value: English, German (Passing)
+      value: English
 
 - title: Education
   type: time_table
