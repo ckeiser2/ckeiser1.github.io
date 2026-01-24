@@ -2,7 +2,7 @@
 layout: page
 permalink: /repositories/
 title: repositories
-description: Edit the `_data/repositories.yml` and change the `github_users` and `github_repos` lists to include your own GitHub profile and repositories.
+description: A look at the repo behind this page and my other github projects. *Note* my previous portfolio page (ckeiser2) has over 200 commits to it over the past 2 years of development. But, since I pushed those updates from my IDE with a different email than my github, it did not count as a contribution.
 nav: true
 nav_order: 4
 ---
