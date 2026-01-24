@@ -2,7 +2,7 @@
 layout: page
 title: projects
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: A growing collection of projects in gaming and various programming languages.
 nav: true
 nav_order: 3
 display_categories: [games, python]
