@@ -33,8 +33,10 @@ Losing Galvinsization:
 
 
 ##### Gameplay example of Galvin Game play as reference
-<video autoplay muted loop style="width:100%;">
-  <source src="{{ site.baseurl }}/assets/mp4/galvin.mp4" type="video/mp4">
+
+<video controls muted loop style="width:100%; max-width:100%;">
+  <source src="{{ '/assets/mp4/galvin.mp4' | relative_url }}" type="video/mp4">
+  Your browser does not support the video tag.
 </video>
 
 ##### Proposition to rework this mechanic
