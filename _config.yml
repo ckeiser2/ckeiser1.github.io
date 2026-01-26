@@ -28,6 +28,9 @@ minify:
 jekyll-minifier:
   exclude:
     - '**/*.json'
+    - ["robots.txt", "assets/js/search/*.js"]
+  compress_javascript: false # set to false since we are using terser as the js minifier
+
 # -----------------------------------------------------------------------------
 # Theme
 # -----------------------------------------------------------------------------
@@ -249,13 +252,6 @@ defaults:
 sass:
   style: compressed
 
-# -----------------------------------------------------------------------------
-# Jekyll Minifier
-# -----------------------------------------------------------------------------
-
-jekyll-minifier:
-  compress_javascript: false # set to false since we are using terser as the js minifier
-  exclude: ["robots.txt", "assets/js/search/*.js"]
 
 # -----------------------------------------------------------------------------
 # Terser
