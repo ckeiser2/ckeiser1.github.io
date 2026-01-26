@@ -42,11 +42,14 @@ Losing Galvinsization:
 
 ##### Gameplay example of Galvin Game play as reference
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include video.liquid loading="eager" path="assets/mp4/galvin.png" title="Galvin" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
+{% include video.liquid
+   path="assets/mp4/galvin.mp4"
+   autoplay=true
+   muted=true
+   loop=true
+   controls=false
+   class="w-100"
+%}
 
 ##### Proposition to rework this mechanic
 

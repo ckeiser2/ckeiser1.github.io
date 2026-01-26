@@ -21,6 +21,14 @@ Creative writing DND-esque story with multiple endings written in HTML and CSS a
 
 <img src="{{ site.baseurl }}/assets/pngs/html_story.png" alt="Breakdown of story nodes in Twine Engine">
 
-{% include dnd.html %}
+## Playable Version of game below 🕹️
+<iframe
+  src="{{ 'assets/games/dnd.html' | relative_url }}"
+  width="120%"
+  height="1000"
+  style="border: none; border-radius: 8px;"
+  loading="lazy">
+</iframe>
+
 
 

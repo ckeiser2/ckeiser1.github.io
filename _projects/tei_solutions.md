@@ -4,7 +4,7 @@ title: 📊 TEI Solutions 🐍
 layout: page
 category: python
 #tools: [Python, Beautiful Soup, Parsing]
-image: assets/pngs/TEI.png
+img: assets/pngs/TEI.png
 description: Converting HTML data to TEI | Data Parsing
 
 ---

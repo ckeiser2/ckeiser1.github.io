@@ -25,16 +25,14 @@ The *Asset List* was created to communicate with artists and the rest of the tea
 
 
 ## Embedded Design Docs
-{% include office_viewer.html 
-  file="https://ckeiser1.github.io/assets/csv/game_design_docs.xlsx" 
-%}
+{% include office_viewer.html file="assets/docs/game_design_docs.xlsx" %}
+
 
 
 ## Proof of Conconcept: 🛠️
 This proof of concept visualizes at a high level what the level up // skill tree system would look like.
-{% include office_viewer.html 
-  file="https://ckeiser1.github.io/assets/docx/skill_tree_poc.docx" 
-%}
+{% include office_viewer.html file="assets/docs/skill_tree_poc.docx" height=700 %}
+
 
 
 
