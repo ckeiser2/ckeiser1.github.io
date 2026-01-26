@@ -24,6 +24,10 @@ impressum_path: # set to path to include impressum link in the footer, use the s
 back_to_top: true # set to false to disable the back to top button
 minify:
   json: false
+
+jekyll-minifier:
+  exclude:
+    - '**/*.json'
 # -----------------------------------------------------------------------------
 # Theme
 # -----------------------------------------------------------------------------
