@@ -27,3 +27,11 @@ assets/json/**/*.json
 lighthouse_results/
 
 .github/workflows/**/*.yml
+
+assets/games/**
+
+assets/js_scripts/**
+assets/scripts/**
+
+assets/data/**/*.json
+
