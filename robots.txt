@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://ckeiser2.github.io/portfolio//sitemap.xml
+Sitemap: https://ckeiser2.github.io/portfolio/sitemap.xml
