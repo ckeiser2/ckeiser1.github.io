@@ -63,6 +63,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/portfolio/books/the_godfather/";
+            },},{id: "books-the-alchemist",
+          title: 'The Alchemist',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/portfolio/books/alchemist/";
             },},{id: "news-release-of-portfolio",
           title: 'Release of portfolio',
           description: "",
