@@ -2,7 +2,7 @@
 layout: book-review
 title: The Alchemist
 author: Paulo Coelho
-cover: 
+cover: assets/img/book_covers/alchemist.png
 olid: OL7290370M # use Open Library ID to fetch cover (if no `cover` is provided)
 isbn: 0062502182 # use ISBN to fetch cover (if no `olid` is provided, dashes are optional)
 categories: Novel, Drama, Quest, Fantasy Fiction, Bildungsroman, Adventure fiction, Religious Fiction
