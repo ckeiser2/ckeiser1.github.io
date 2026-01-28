@@ -168,6 +168,13 @@ ninja.data = [{
           window.open("https://www.linkedin.com/in/colton-keiser/", "_blank");
         },
       },{
+        id: 'social-repo',
+        title: 'Repo',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://github.com/ckeiser2/portfolio", "_blank");
+        },
+      },{
         id: 'social-previous portfolio',
         title: 'Previous portfolio',
         section: 'Socials',
