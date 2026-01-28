@@ -12,7 +12,7 @@ children:
     permalink: /blog/
   - title: divider
   - title: about me
-    permlink: /about_me/
+    permlink: /profile/
   - title: divider
   - title: news
     permalink: /news/
