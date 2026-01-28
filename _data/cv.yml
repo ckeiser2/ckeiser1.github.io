@@ -54,10 +54,10 @@
   contents:
     - year: 2024
       items:
-        - iSchool Dean's List
+        - UIUC iSchool Dean's List
     - year: 2023
       items:
-        - iSchool Dean's List
+        - UIUC iSchool Dean's List
 
 - title: Interests
   type: nested_list
