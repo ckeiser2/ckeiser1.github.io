@@ -10,4 +10,10 @@ children:
   - title: divider
   - title: blog
     permalink: /blog/
+  - title: divider
+  - title: about me
+    permlink: /about_me/
+  - title: divider
+  - title: news
+    permalink: /news/
 ---

@@ -1,7 +1,7 @@
 ---
 layout: profiles
-permalink: /people/
-title: profile
+permalink: /about_me/
+title: about me
 description: About me section.
 nav: false
 nav_order: 7
